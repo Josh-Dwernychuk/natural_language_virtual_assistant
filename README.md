@@ -1,1 +1,1 @@
-Virtual assistant that references various API’s and perform various tasks provided by user commands via speech recognition
+Virtual assistant that references various APIs and perform various tasks provided by user commands via speech recognition
